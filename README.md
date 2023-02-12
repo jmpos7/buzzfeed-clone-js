@@ -3,8 +3,8 @@
 Buzzfeed clone built using vanilla Javascript. This is a simple personality quiz inspired by the universe of Dungeons and Dragons.
 
 ## Features
-- 6 options for each question
-- Unique logic to assess results
+- 4 questions with 6 answers for each question
+- Result assessment logic based on most applicable answers
 - 14 potential results based on combinations of options
 - Simple design inspired by Buzzfeed Quizzes
 
@@ -13,10 +13,10 @@ Buzzfeed clone built using vanilla Javascript. This is a simple personality quiz
 - CSS
 - JavaScript
 
-## How to Use
-1. Open the index.html file in your browser
-2. Answer each of the questions by clicking on your preferred option
-3. After answering all the questions, your result will be displayed on the page
+## Test it Out
+Try out the quiz at this link:
+
+[Buzzfeed Quiz Clone: Dungeons and Dragons Class](https://codepen.io/jmpost/full/ZEMzGbV) on Codepen
 
 ## Inspiration
 This project was inspired by the tutorial by Ania Kubow (kubowania on Github).
