@@ -116,3 +116,18 @@ p {
 .result-block a:hover {
     text-decoration: none;
 }
+
+/* media query to adjust for smaller screens */
+@media (max-width: 767px) {
+    .title-block,
+    .answer-block,
+    .result-block {
+      width: 100%;
+    }
+  
+    .answer-block {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
+  }
